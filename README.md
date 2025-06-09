@@ -22,7 +22,7 @@ O sistema realiza buscas vetoriais (RAG) e responde com base no texto real, cita
 
 - Python 3.10+
 - [Ollama instalado localmente](https://ollama.com/)
-- Modelos baixados no Ollama (ex: `llama3`)
+- Modelos baixados no Ollama (ex: `llama3.2 e nomic-embed-text`)
 - Instalar dependências:
 
 ```bash
